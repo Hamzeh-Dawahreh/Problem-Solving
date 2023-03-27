@@ -24,6 +24,19 @@ console.log(arraySum([1, 2, 3, 4, 5]));
 console.log(arraySum([10, -5, 7, 2]));
 console.log(arraySum([]));
 
+// function sumArray(arr, n) {
+//     if (n <= 0) {
+//       return 0;
+//     } else {
+//       return arr[n-1] + sumArray(arr, n-1);
+//     }
+//   }
+
+//   // example usage
+//   let arr = [1, 2, 3, 4, 5];
+//   let n = arr.length;
+//   console.log(sumArray(arr, n));  // prints 15
+
 // 3 Reverse a String:
 
 // function reverseString(str) {
@@ -34,3 +47,9 @@ console.log(arraySum([]));
 //   }
 // }
 // console.log(reverseString("hezmaH"));
+//Hamzeh
+//ezmaH h
+// zmaH e h
+// maH z e h
+//ah m z e h
+// H a m z e h
